@@ -18,7 +18,7 @@ Watch the complete tutorial:
 
 Try the project online:
 
-**Demo Link:** [https://www.tinkercad.com/things/4La8k0W07ak-smart-traffic-management-system]
+**Demo Link:** https://www.tinkercad.com/things/4La8k0W07ak-smart-traffic-management-system
 
 ---
 
